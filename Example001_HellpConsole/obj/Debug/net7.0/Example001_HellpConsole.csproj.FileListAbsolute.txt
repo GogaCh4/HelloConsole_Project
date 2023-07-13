@@ -1,0 +1,15 @@
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\bin\Debug\net7.0\Example001_HellpConsole.exe
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\bin\Debug\net7.0\Example001_HellpConsole.deps.json
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\bin\Debug\net7.0\Example001_HellpConsole.runtimeconfig.json
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\bin\Debug\net7.0\Example001_HellpConsole.dll
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\bin\Debug\net7.0\Example001_HellpConsole.pdb
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\Example001_HellpConsole.csproj.AssemblyReference.cache
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\Example001_HellpConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\Example001_HellpConsole.AssemblyInfoInputs.cache
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\Example001_HellpConsole.AssemblyInfo.cs
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\Example001_HellpConsole.csproj.CoreCompileInputs.cache
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\Example001_HellpConsole.dll
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\refint\Example001_HellpConsole.dll
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\Example001_HellpConsole.pdb
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\Example001_HellpConsole.genruntimeconfig.cache
+C:\Users\Gogen\Documents\Examples\Example001_HellpConsole\obj\Debug\net7.0\ref\Example001_HellpConsole.dll
